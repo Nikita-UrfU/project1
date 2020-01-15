@@ -1,0 +1,138 @@
+﻿@model CylindricalDataModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    @await Html.PartialAsync("_Cylindrical", Model)
+</div>
+
+<hr />
+<table>
+    <tr>
+        <td>Ответ</td>
+    </tr>
+    <tr>
+        <td>Тепловой поток (Q)</td>
+        <td>  <input type="number" name="data.Q" value="@Model.Q" /></td>
+    </tr>
+    <tr>
+        <td>Температура границы 1 слоя (T1)</td>
+        <td>  <input type="number" name="data.T1" value="@Model.T1" /></td>
+    </tr>
+    <tr>
+        <td>Температура границы 2 слоя (T2), Цельсия</td>
+        <td> <input type="number" name="data.T2" value="@Model.T2" /></td>
+    </tr>
+    <tr>
+        <td class="for_3">Температура границы 3 слоя (T3), Цельсия</td>
+
+        <td class="for_3">  <input type="number" name="data.T3" value="@Model.T3" /></td>
+    </tr>
+    <tr>
+        <td style="width: 100%; text-align: center;">
+            <button id="chart_show" type="submit">Построить график</button>
+      
+        </td>
+    </tr>
+
+</table>
+
+<div style="display: none;" id="chartWrapper">
+    <div class="text-center">
+        <h2 class="display-4"><b>График зависимости температуры от расстояния до стенки</b></h2>
+
+    </div>
+
+    <canvas id="myChart" width="400" height="200"></canvas>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#count1').on('change', function () {
+            if ($(this).val() == "2") {
+                $('.for_3').hide();
+            }
+            else {
+                $('.for_3').show();
+            }
+        });
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $('#chart_show').on('click', function () {
+            $('#chartWrapper').toggle();
+
+        });
+    })
+
+    var ctx = document.getElementById('myChart');
+
+    // Global Options:
+    Chart.defaults.global.defaultFontColor = 'black';
+    Chart.defaults.global.defaultFontSize = 16;
+
+    var data = {
+        labels: @Json.Serialize(Model.ArrayX),
+        datasets: [{
+            label: "",
+            fill: false,
+            lineTension: 0.1,
+            backgroundColor: "rgba(225,0,0,0.4)",
+            borderColor: "blue", // The main line color
+            borderCapStyle: 'square',
+            borderDash: [], // try [5, 15] for instance
+            borderDashOffset: 0.0,
+            borderJoinStyle: 'miter',
+            pointBorderColor: "black",
+            pointBackgroundColor: "white",
+            pointBorderWidth: 1,
+            pointHoverRadius: 8,
+            pointHoverBackgroundColor: "yellow",
+            pointHoverBorderColor: "brown",
+            pointHoverBorderWidth: 2,
+            pointRadius: 4,
+            pointHitRadius: 10,
+            // notice the gap in the data and the spanGaps: true
+            data:@Json.Serialize(Model.ArrayY),
+            spanGaps: true,
+        }
+
+        ]
+    };
+
+    // Notice the scaleLabel at the same level as Ticks
+    var options = {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                },
+                scaleLabel: {
+                    display: true,
+                    labelString:'Температура',
+                    fontSize: 20
+                }
+            }],
+
+            xAxes: [{
+                ticks: {
+                    beginAtZero: true
+                },
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Расстояние до стенки',
+                    fontSize: 20
+                }
+            }]
+        }
+    };
+
+    // Chart declaration:
+    var myBarChart = new Chart(ctx, {
+        type: 'line',
+        data: data,
+        options: options
+    });
+</script>

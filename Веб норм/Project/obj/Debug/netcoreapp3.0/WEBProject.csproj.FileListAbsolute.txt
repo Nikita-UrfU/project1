@@ -1,0 +1,335 @@
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.exe
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.deps.json
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.runtimeconfig.json
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.runtimeconfig.dev.json
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.pdb
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.Views.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.Views.pdb
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\staticwebassets\WEBProject.StaticWebAssets.Manifest.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\staticwebassets\WEBProject.StaticWebAssets.xml
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorAssemblyInfo.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorAssemblyInfo.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.AssemblyInfoInputs.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.AssemblyInfo.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.TagHelpers.input.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.TagHelpers.output.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorCoreGenerate.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Cylindrical.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\_Cylindrical.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorTargetAssemblyInfo.cache
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorTargetAssemblyInfo.cs
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.Views.pdb
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.csproj.CopyComplete
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.dll
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.pdb
+C:\Users\AlenaK\Desktop\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.csprojAssemblyReference.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.exe
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.deps.json
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.runtimeconfig.json
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.runtimeconfig.dev.json
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.pdb
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.Views.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\WEBProject.Views.pdb
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.csprojAssemblyReference.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\staticwebassets\WEBProject.StaticWebAssets.Manifest.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\staticwebassets\WEBProject.StaticWebAssets.xml
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorAssemblyInfo.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorAssemblyInfo.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.AssemblyInfoInputs.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.AssemblyInfo.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.TagHelpers.input.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.TagHelpers.output.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorCoreGenerate.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Cylindrical.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\_Cylindrical.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorTargetAssemblyInfo.cache
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorTargetAssemblyInfo.cs
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.Views.pdb
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.csproj.CopyComplete
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.dll
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\WEBProject.pdb
+C:\Users\N.A.Dvoinishnikov\Desktop\Проект по модулю\Веб\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Graph.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.exe
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.deps.json
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.runtimeconfig.json
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.runtimeconfig.dev.json
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.pdb
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.Views.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\WEBProject.Views.pdb
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.csprojAssemblyReference.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\staticwebassets\WEBProject.StaticWebAssets.Manifest.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\staticwebassets\WEBProject.StaticWebAssets.xml
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorAssemblyInfo.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorAssemblyInfo.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.AssemblyInfoInputs.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.AssemblyInfo.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.TagHelpers.input.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.TagHelpers.output.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorCoreGenerate.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Cylindrical.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Graph.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\_Cylindrical.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorTargetAssemblyInfo.cache
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.RazorTargetAssemblyInfo.cs
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.Views.pdb
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.csproj.CopyComplete
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.dll
+C:\Users\AlenaK\Desktop\Веб норм\Project\obj\Debug\netcoreapp3.0\WEBProject.pdb

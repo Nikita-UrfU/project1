@@ -1,0 +1,127 @@
+﻿@model CylindricalDataModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form action="/Home/Cylindrical" method="post">
+    <table>
+        <tr>
+            <td style="font-size: 25px"> Исходные данные</td>
+        </tr>
+
+        <tr>
+            <td>Количество слоев</td>
+            <td>
+                <select name="data.LayerCount" id="count1">
+                    <option value="2" selected="@(Model.LayerCount == 2)">2 слоя</option>
+                    <option value="3" selected="@(Model.LayerCount == 3)">3 слоя</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Положение поверхности</td>
+            <td>
+                <select name="data.Position">
+                    <option value="0" select="@(Model.Position == 0)">Вертикальное</option>
+                    <option value="1" select="@(Model.Position == 1)">Горизонтальное</option>
+                    <option value="2" select="@(Model.Position == 2)">Горизонтальное при теплоотдаче вниз</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Вид поверхности</td>
+            <td>
+                <select name="data.View">
+                    <option value="0" select="@(Model.View == 0)">Кирпичные</option>
+                    <option value="1" select="@(Model.View == 1)">Стальные</option>
+                    <option value="2" select="@(Model.View == 2)">Алюминевая краска</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Альфа</td>
+            <td>
+                <select name="data.Alfa" id="count2">
+                    <option value="0" select="@(Model.Alfa == 0)">Для естественной конвекции</option>
+                    <option value="1" select="@(Model.Alfa == 1)">При принудительной конвекции</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Температура наружной поверхности стенки</td>
+            <td>  <input type="number" name="data.TWall" value="@Model.TWall" /></td>
+        </tr>
+        <tr>
+            <td>Температура внутренней поверхности стенки</td>
+            <td>  <input type="number" name="data.TWn" value="@Model.TWn" /></td>
+        </tr>
+        <tr>
+            <td>Температура окружающей среды</td>
+            <td> <input type="number" name="data.TOkr" value="@Model.TOkr" /></td>
+        </tr>
+        <tr>
+            <td class="for_U">Скорость омывающего потока, м/с</td>
+            <td class="for_U"><input type="text" name="data.U" value="@Model.U" /></td>
+        </tr>
+        <tr>
+            <td>Радиус R0</td>
+            <td> <input type="text" name="data.R0" value="@Model.R0" /></td>
+        </tr>
+        <tr>
+            <td>Радиус R1</td>
+            <
+            <td> <input type="text" name="data.R1" value="@Model.R1" /></td>
+        </tr>
+        <tr>
+            <td>Радиус R2</td>
+            <
+            <td> <input type="text" name="data.R2" value="@Model.R2" /></td>
+        </tr>
+        <tr>
+            <td class="for_3">Радиус R3</td>
+            <td class="for_3"> <input type="text" name="data.R3" value="@Model.R3" /></td>
+        </tr>
+
+        <tr>
+            <td>Теплопроводность, Вт/(м^2*K)</td>
+            <td>  <input type="text" name="data.C1" value="@Model.C1" /></td>
+            <td>  <input type="text" name="data.C2" value="@Model.C2" /></td>
+            <td class="for_3">  <input type="text" name="data.C3" value="@Model.C3" /></td>
+        </tr>
+        <tr>
+            <td>
+                <button type="submit" ; style="font-size: 25px"> Расчет </button>
+            </td>
+        </tr>
+
+    </table>
+</form>
+<script>
+$(document).ready(function () {
+        function layerCountTrigger() {
+            if ($('#count1').val() == "2") {
+                $('.for_3').hide();
+            }
+            else {
+                $('.for_3').show();
+            }
+        }
+
+        $('#count1').on('change', layerCountTrigger);
+
+        layerCountTrigger();
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $('#count2').on('change', function () {
+            if ($(this).val() == "0") {
+                $('.for_U').hide();
+            }
+            else {
+                $('.for_U').show();
+            }
+        });
+    });
+</script>
